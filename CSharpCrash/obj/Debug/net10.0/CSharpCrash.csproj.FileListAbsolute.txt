@@ -1,0 +1,14 @@
+/home/ks/Development/CSharpCrash/CSharpCrash/obj/Debug/net10.0/CSharpCrash.GeneratedMSBuildEditorConfig.editorconfig
+/home/ks/Development/CSharpCrash/CSharpCrash/obj/Debug/net10.0/CSharpCrash.AssemblyInfoInputs.cache
+/home/ks/Development/CSharpCrash/CSharpCrash/obj/Debug/net10.0/CSharpCrash.AssemblyInfo.cs
+/home/ks/Development/CSharpCrash/CSharpCrash/obj/Debug/net10.0/CSharpCrash.csproj.CoreCompileInputs.cache
+/home/ks/Development/CSharpCrash/CSharpCrash/bin/Debug/net10.0/CSharpCrash
+/home/ks/Development/CSharpCrash/CSharpCrash/bin/Debug/net10.0/CSharpCrash.deps.json
+/home/ks/Development/CSharpCrash/CSharpCrash/bin/Debug/net10.0/CSharpCrash.runtimeconfig.json
+/home/ks/Development/CSharpCrash/CSharpCrash/bin/Debug/net10.0/CSharpCrash.dll
+/home/ks/Development/CSharpCrash/CSharpCrash/bin/Debug/net10.0/CSharpCrash.pdb
+/home/ks/Development/CSharpCrash/CSharpCrash/obj/Debug/net10.0/CSharpCrash.dll
+/home/ks/Development/CSharpCrash/CSharpCrash/obj/Debug/net10.0/refint/CSharpCrash.dll
+/home/ks/Development/CSharpCrash/CSharpCrash/obj/Debug/net10.0/CSharpCrash.pdb
+/home/ks/Development/CSharpCrash/CSharpCrash/obj/Debug/net10.0/CSharpCrash.genruntimeconfig.cache
+/home/ks/Development/CSharpCrash/CSharpCrash/obj/Debug/net10.0/ref/CSharpCrash.dll

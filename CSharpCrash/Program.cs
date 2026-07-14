@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using CSharpCrash._01_Classes;
 
-Console.WriteLine("Hello, World!");
+Classes.Run();
