@@ -1,0 +1,27 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Rider / JetBrains
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NuGet packages (only if stored locally)
+packages/
